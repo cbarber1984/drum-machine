@@ -1,3 +1,10 @@
+:root {
+  -container-bkg: black;
+  -page-bkg: purple;
+  -btn-bkg: red;
+  -btn-text: white;
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +42,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#drum-machine {
+  background-color: var(--container-bkg);
 }

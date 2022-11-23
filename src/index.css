@@ -43,6 +43,7 @@ code {
   margin: 10px;
   color: aqua;
   text-align: center;
+  border-radius: 10px;
 }
 
 #display {

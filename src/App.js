@@ -1,3 +1,7 @@
+{
+  /* 
+
+
 import "./App.css";
 import { Howl } from "howler";
 import { Component } from "react";
@@ -49,3 +53,6 @@ class App extends Component {
 }
 
 export default App;
+
+*/
+}

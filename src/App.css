@@ -1,8 +1,8 @@
 :root {
   -container-bkg: black;
   -page-bkg: purple;
-  -btn-bkg: red;
-  -btn-text: white;
+  -pad-button-bkg: red;
+  -pad-button-text: white;
 }
 
 .App {

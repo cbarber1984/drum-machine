@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Check out the deployed [DRUM MACHINE](https://cbarber1984.github.io/drum-machine/)
+
 ## Available Scripts
 
 In the project directory, you can run:
